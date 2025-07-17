@@ -7,7 +7,6 @@ from openai import (
     AzureOpenAI,
     APIConnectionError,
     APIError,
-    AzureOpenAI,
     OpenAI,
     RateLimitError,
 )
